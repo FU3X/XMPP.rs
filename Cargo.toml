@@ -14,4 +14,4 @@ web-sys = "0.3"
 js-sys = "0.3"
 
 [workspace]
-members = ["src-tauri"]
+members = ["src-tauri", "src-rocket"]
