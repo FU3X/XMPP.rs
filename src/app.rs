@@ -3,6 +3,6 @@ use yew::prelude::*;
 #[function_component(App)]
 pub fn app() -> Html {
     html! {
-        <div class="nigger">{ "Hello, NIGGER!" }</div>
+        <div class="bigga">{ "Hello, BIGGA!" }</div>
     }
 }
