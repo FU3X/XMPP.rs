@@ -1,5 +1,5 @@
 [package]
-name = "wx-frontend"
+name = "xmpp-dot-rs-desktop"
 version = "0.0.0"
 description = "A Tauri App"
 authors = ["you"]
